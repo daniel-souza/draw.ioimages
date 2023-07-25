@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-25T03:17:23.459Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="xyIiqQY-9f78cLMFQOr3" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-25T03:19:31.589Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.86" etag="IGvJl2z8Wy9rP_JY8sdP" version="21.6.5" type="github">
   <diagram name="Página-1" id="v7wV8ZnBL8g8qVp7nPG3">
     <mxGraphModel dx="1532" dy="882" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1226,32 +1226,32 @@
         <mxCell id="OBTYLCGTiaKQGchKdyx5-462" value="&lt;br&gt;" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" vertex="1" parent="1">
           <mxGeometry x="520" y="5070" width="260" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="OBTYLCGTiaKQGchKdyx5-463" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu realizo a navegação da&lt;br&gt;página, &lt;br&gt;agrupo tarefas,&lt;br&gt;adiciono novas tarefas, &lt;br&gt;exibo tarefa&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="531" y="5070" width="240" height="120" as="geometry" />
+        <mxCell id="OBTYLCGTiaKQGchKdyx5-463" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu apresento o &lt;br&gt;cabeçalho da&amp;nbsp;página, &lt;br&gt;agrupo tarefas,&lt;br&gt;adiciono novas tarefas, &lt;br&gt;exibo tarefa&amp;nbsp;&amp;nbsp;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="541" y="5070" width="220" height="120" as="geometry" />
         </mxCell>
         <mxCell id="OBTYLCGTiaKQGchKdyx5-464" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;" vertex="1" parent="1">
           <mxGeometry x="1010" y="5070" width="154" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OBTYLCGTiaKQGchKdyx5-465" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu realizo a &lt;br&gt;navegação da&lt;br&gt;página&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1017" y="5070" width="140" height="80" as="geometry" />
+        <mxCell id="OBTYLCGTiaKQGchKdyx5-465" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu apresento o&lt;br&gt;cabeçalho da&lt;br&gt;página&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1012" y="5070" width="150" height="80" as="geometry" />
         </mxCell>
         <mxCell id="OBTYLCGTiaKQGchKdyx5-466" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;flipV=0;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1411" y="5054" width="154" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OBTYLCGTiaKQGchKdyx5-467" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu agrupo&lt;br&gt;tarefas&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="OBTYLCGTiaKQGchKdyx5-467" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu agrupo&lt;br&gt;tarefas&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1433" y="5064" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OBTYLCGTiaKQGchKdyx5-468" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;flipV=1;" vertex="1" parent="1">
           <mxGeometry x="1019" y="5510" width="154" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OBTYLCGTiaKQGchKdyx5-469" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu adiciono&lt;br&gt;novas tarefas&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1031" y="5540" width="130" height="60" as="geometry" />
+        <mxCell id="OBTYLCGTiaKQGchKdyx5-469" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu adiciono&lt;br&gt;novas tarefas&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1026" y="5540" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OBTYLCGTiaKQGchKdyx5-471" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.message;flipV=1;flipH=1;" vertex="1" parent="1">
           <mxGeometry x="1423" y="5513" width="154" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="OBTYLCGTiaKQGchKdyx5-472" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu exibo &lt;br&gt;tarefa&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1455" y="5540" width="90" height="60" as="geometry" />
+        <mxCell id="OBTYLCGTiaKQGchKdyx5-472" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;Eu exibo &lt;br&gt;tarefa&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="1450" y="5540" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
