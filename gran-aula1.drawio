@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-30T16:44:19.125Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="c58tnTIABclgfLt69Vl4" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-30T18:04:48.560Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="6w8pwglTVql5S3oTUtjs" version="21.6.6" type="github">
   <diagram name="Página-1" id="v7wV8ZnBL8g8qVp7nPG3">
     <mxGraphModel dx="861" dy="1674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1346,20 +1346,26 @@
         <mxCell id="4bpXUWETg4VouDvgKclB-40" value="Tranpilação&lt;br&gt;Babel ou TypeScript" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1130" y="55" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="4bpXUWETg4VouDvgKclB-42" value="Funções" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="1">
+        <mxCell id="4bpXUWETg4VouDvgKclB-42" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=none;strokeWidth=1;fillColor=#DB2843;fontColor=#FFFFFF;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="2040" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4bpXUWETg4VouDvgKclB-43" value="" style="image;html=1;image=img/lib/clip_art/people/Waiter_Black_128x128.png" vertex="1" parent="1">
           <mxGeometry x="2080" width="160" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="4bpXUWETg4VouDvgKclB-45" value="Classes" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#001DBC;strokeWidth=1;fillColor=#0050ef;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="1">
+        <mxCell id="4bpXUWETg4VouDvgKclB-45" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;strokeColor=#001DBC;strokeWidth=1;fillColor=#0050ef;fontColor=#ffffff;whiteSpace=wrap;align=center;verticalAlign=middle;spacingLeft=0;fontStyle=1;fontSize=14;spacing=10;" vertex="1" parent="1">
           <mxGeometry x="2200" y="140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4bpXUWETg4VouDvgKclB-48" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#030453;shadow=0;dashed=0;shape=mxgraph.ios7.icons.glasses;fillColor=#030453;" vertex="1" parent="1">
           <mxGeometry x="2156" y="35" width="30" height="12" as="geometry" />
         </mxCell>
-        <mxCell id="4bpXUWETg4VouDvgKclB-50" value="Escolha&lt;br&gt;sabiamente" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="4bpXUWETg4VouDvgKclB-50" value="Escolha&lt;br&gt;sabiamente&lt;br&gt;&amp;nbsp;" style="whiteSpace=wrap;html=1;shape=mxgraph.basic.oval_callout;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="2190" y="-30" width="120" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="4bpXUWETg4VouDvgKclB-51" value="Arquitetura&lt;br&gt;Modular" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2030" y="160" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4bpXUWETg4VouDvgKclB-52" value="Arquitetura&lt;br&gt;Monolítica" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="2190" y="160" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
