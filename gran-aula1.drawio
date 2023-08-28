@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-28T08:39:22.417Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="nSogVaXdAcK0NuIAXg1u" version="21.6.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-28T10:08:43.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36 Edg/116.0.1938.62" etag="RPfHy1xl0sE_CSPDFShK" version="21.6.9" type="github">
   <diagram name="Página-1" id="v7wV8ZnBL8g8qVp7nPG3">
     <mxGraphModel dx="2982" dy="1941" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1707,7 +1707,7 @@
         <mxCell id="NhFUtIvHYCpgHBZHtd3l-207" value="Servidor &lt;i&gt;Front-End&lt;/i&gt;&lt;br&gt;(Aplicativo ou interface &lt;i&gt;web&lt;/i&gt;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-578" y="-496.5" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="NhFUtIvHYCpgHBZHtd3l-208" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;b&gt;Incremental Static Regeneration&lt;br&gt;(SSR)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="1">
+        <mxCell id="NhFUtIvHYCpgHBZHtd3l-208" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;/div&gt;&lt;b&gt;Incremental Static Regeneration&lt;br&gt;(ISR)&lt;/b&gt;" style="text;whiteSpace=wrap;html=1;align=center;fontStyle=2;fontColor=#FF0000;" vertex="1" parent="1">
           <mxGeometry x="-578" y="-386.5" width="227" height="31.5" as="geometry" />
         </mxCell>
         <mxCell id="NhFUtIvHYCpgHBZHtd3l-209" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
